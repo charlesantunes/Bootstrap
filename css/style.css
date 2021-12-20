@@ -3,20 +3,22 @@ body{
     
 }
 .navbar{
-    background-color: #AEB6BF;
+    background-color: #2C3E50;
+    
 }
 .quem-somos{
-    background-color: chartreuse;
+    background-color: #D7DBDD;
 }
 .margin{    
     padding-bottom: 50px;
     padding-top: 10px;
     margin-bottom: 0;      
 }
-.parceiros{
+.conhecimentos{
     background-color: cyan;
+    font: 30px bolder;
 }
-.servicos {
+.sobre {
     background-color: burlywood;
 }
 .rodape {

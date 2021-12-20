@@ -19,7 +19,7 @@ body{
 .servicos {
     background-color: burlywood;
 }
-.rodape, a{
-    background-color: darkslategray;
+.rodape {
+    background-color: #2C3E50;
     color: white;
 }
